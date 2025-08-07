@@ -27,6 +27,6 @@ This is a simple web application built with React, showing a list of bestselling
 ### ﹅ Installation
 
 ```bash
-git clone https://github.com/dyoungky/Best-sellers-in-books.git
+git clone https://github.com/dyoungky/BestSellersInBooks.git
 npm install
 npm start
